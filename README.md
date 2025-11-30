@@ -1,4 +1,3 @@
-## Hi there 👋
 <img src="https://raw.githubusercontent.com/Shai-ra/Shai-ra/main/copy_4BA86F54-AB7D-4455-A3C2-D6D9DA02DEF9-ezgif.com-video-to-gif-converter.gif" width="400">
 
 <!--
