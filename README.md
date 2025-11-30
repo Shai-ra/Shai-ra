@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://github.com/Shai-ra/Shai-ra/blob/main/copy_4BA86F54-AB7D-4455-A3C2-D6D9DA02DEF9-ezgif.com-video-to-gif-converter.gif
+<img src="https://raw.githubusercontent.com/Shai-ra/Shai-ra/main/copy_4BA86F54-AB7D-4455-A3C2-D6D9DA02DEF9-ezgif.com-video-to-gif-converter.gif" width="400">
 
 <!--
 **Shai-ra/Shai-ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
