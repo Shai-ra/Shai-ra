@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Shai-ra/Shai-ra/main/copy_4BA86F54-AB7D-4455-A3C2-D6D9DA02DEF9-ezgif.com-video-to-gif-converter.gif" width="400"><h3 align="center">AI student</h3>
+<img src="https://raw.githubusercontent.com/Shai-ra/Shai-ra/main/copy_4BA86F54-AB7D-4455-A3C2-D6D9DA02DEF9-ezgif.com-video-to-gif-converter.gif" width="600"><h3 align="center">AI student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shai-ra&label=Profile%20views&color=0e75b6&style=flat" alt="shai-ra" /> </p>
 
