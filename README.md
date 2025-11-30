@@ -1,14 +1,11 @@
-<div style="background:#ffb6c9; padding:20px; border-radius:12px; display:flex; align-items:center; gap:20px;">
-
-<img src="https://raw.githubusercontent.com/Shai-ra/Shai-ra/main/copy_4BA86F54-AB7D-4455-A3C2-D6D9DA02DEF9-ezgif.com-video-to-gif-converter.gif" width="600">
-<!-- Side Panel Box -->
-  <div style="background:white; padding:20px; border-radius:12px; width:250px; box-shadow:0 0 10px rgba(0,0,0,0.15);">
-    <h3 style="margin-top:0; text-align:center;">AI Student</h3>
-    <p style="font-size:14px; text-align:center;">
-      Crafting projects, breaking things, fixing them again 😭  
-    </p>
+<div style="background:#ffb6c9; padding:24px; border-radius:12px; display:flex; align-items:center; gap:20px; max-width:1000px; margin: 0 auto;">
+  <img src="https://raw.githubusercontent.com/Shai-ra/Shai-ra/main/copy_4BA86F54-AB7D-4455-A3C2-D6D9DA02DEF9-ezgif.com-video-to-gif-converter.gif"
+       width="300" style="border-radius:10px;" alt="gif"/>
+  <div style="background:#fff; padding:18px; border-radius:10px; width:280px; box-shadow:0 6px 18px rgba(0,0,0,0.12);">
+    <div style="font-weight:600; font-size:18px; text-align:center; margin-bottom:6px;">AI student</div>
+    <p style="font-size:13px; text-align:center; margin:0;">Crafting projects, breaking stuff, fixing it again.</p>
   </div>
-  </div>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shai-ra&label=Profile%20views&color=0e75b6&style=flat" alt="shai-ra" /> </p>
 
