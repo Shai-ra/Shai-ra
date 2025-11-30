@@ -8,6 +8,7 @@
       Crafting projects, breaking things, fixing them again 😭  
     </p>
   </div>
+  </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shai-ra&label=Profile%20views&color=0e75b6&style=flat" alt="shai-ra" /> </p>
 
