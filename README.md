@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://github.com/user-attachments/assets/0096c885-cf07-475d-bfe9-aedef6cda853
+
 
 <!--
 **Shai-ra/Shai-ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
