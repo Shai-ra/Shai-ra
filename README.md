@@ -1,11 +1,17 @@
-<div style="background:#ffb6c9; padding:24px; border-radius:12px; display:flex; align-items:center; gap:20px; max-width:1000px; margin: 0 auto;">
-  <img src="https://raw.githubusercontent.com/Shai-ra/Shai-ra/main/copy_4BA86F54-AB7D-4455-A3C2-D6D9DA02DEF9-ezgif.com-video-to-gif-converter.gif"
-       width="600" style="border-radius:10px;" alt="gif"/>
-  <div style="background:#fff; padding:18px; border-radius:10px; width:280px; box-shadow:0 6px 18px rgba(0,0,0,0.12);">
-    <div style="font-weight:600; font-size:18px; text-align:center; margin-bottom:6px;">AI student</div>
-    <p style="font-size:13px; text-align:center; margin:0;">Crafting projects, breaking stuff, fixing it again.</p>
-  </div>
-</div>
+<table width="100%" cellpadding="0" cellspacing="0" style="background:#ffb6c9;">
+  <tr>
+    <td align="center" style="padding:28px 0;">
+      <div style="display:inline-flex; align-items:center; gap:20px; max-width:1100px; width:95%;">
+        <img src="https://raw.githubusercontent.com/Shai-ra/Shai-ra/main/copy_4BA86F54-AB7D-4455-A3C2-D6D9DA02DEF9-ezgif.com-video-to-gif-converter.gif"
+             width="360" style="border-radius:10px;" alt="gif"/>
+        <div style="background:#fff; padding:20px; border-radius:12px; width:320px; box-shadow:0 8px 22px rgba(0,0,0,0.14);">
+          <div style="font-weight:700; font-size:18px; text-align:center; margin-bottom:6px;">AI student</div>
+          <p style="margin:0; font-size:13px; text-align:center;">Crafting projects, breaking stuff, fixing it again.</p>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shai-ra&label=Profile%20views&color=0e75b6&style=flat" alt="shai-ra" /> </p>
 
