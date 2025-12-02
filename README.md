@@ -4,12 +4,11 @@
       <table cellpadding="0" cellspacing="0" style="max-width:1100px; width:95%;">
         <tr>
           
-          <!-- GIF COLUMN -->
+
   <td align="center" style="padding-right:20px;">
   <img src="https://raw.githubusercontent.com/Shai-ra/Shai-ra/main/copy_4BA86F54-AB7D-4455-A3C2-D6D9DA02DEF9-ezgif.com-video-to-gif-converter.gif" width="600"style="border-radius:10px;" alt="gif"/>
           </td>
 
-          <!-- AI STUDENT CARD COLUMN -->
    <td align="center">
             <div style="background:#fff; padding:20px; border-radius:12px; width:320px; box-shadow:0 8px 22px rgba(0,0,0,0.14);">
               <div style="font-weight:700; font-size:18px; text-align:center; margin-bottom:6px;">AI student</div>
