@@ -1,29 +1,39 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&family=Fredericka+the+Great&family=Mea+Culpa&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@400;700&display=swap');
+
+.ai-title {
+  font-family: 'Fascinate Inline', 'Fredericka the Great', 'Mea Culpa', 'Roboto', sans-serif;
+}
+
+.ai-sub {
+  font-family: 'Tangerine', cursive;
+  font-size: 26px !important;
+  line-height: 1.1;
+}
+</style>
+
 <table width="100%" cellpadding="0" cellspacing="0" style="background:#ffb6c9;">
-  <tr>
-    <td align="center" style="padding:28px 0;">
-      <table cellpadding="0" cellspacing="0" style="max-width:1100px; width:95%;">
-        <tr>
-          
+<tr>
+<td align="center" style="padding:28px 0;">
+  <table cellpadding="0" cellspacing="0" style="max-width:1100px; width:95%;">
+<tr>
 
-  <td align="center" style="padding-right:20px;">
-  <img src="https://raw.githubusercontent.com/Shai-ra/Shai-ra/main/copy_4BA86F54-AB7D-4455-A3C2-D6D9DA02DEF9-ezgif.com-video-to-gif-converter.gif" width="600"style="border-radius:10px;" alt="gif"/>
-          </td>
-
-   <td align="center">
-  <div style="background:#fff; padding:20px; border-radius:12px; width:320px; box-shadow:0 8px 22px rgba(0,0,0,0.14); position:relative;">
-
-  <div style="font-weight:700; font-size:18px; text-align:center; margin-bottom:6px;">AI student</div>
-  <p style="margin:0; font-size:13px; text-align:center;"> Crafting projects, breaking stuff, fixing it again.</p>
-  <img src="https://raw.githubusercontent.com/Shai-ra/Shai-ra/main/BPmy.gif" width="160"
-    style="position:absolute; top:-20px; right:-20px; border-radius:10px;"
-    alt="gif"/>
-
-  </div>
+<td align="center" style="padding-right:20px;">
+  <img src="https://raw.githubusercontent.com/Shai-ra/Shai-ra/main/copy_4BA86F54-AB7D-4455-A3C2-D6D9DA02DEF9-ezgif.com-video-to-gif-converter.gif" width="500" style="border-radius:10px;" alt="gif"/>
 </td>
 
+  <td align="center">
+    <div style="background:#fff; padding:20px; border-radius:12px; width:320px; box-shadow:0 8px 22px rgba(0,0,0,0.14); position:relative;">
 
-   </tr>
-      </table>
+  <div class="ai-title" style="font-weight:700; font-size:22px; text-align:center; margin-bottom:6px;">AI student</div>
+  <p class="ai-sub" style="margin:0; text-align:center;">Crafting projects, breaking stuff, fixing it again.</p>
+<img src="https://raw.githubusercontent.com/Shai-ra/Shai-ra/main/BPmy.gif" width="160" style="position:absolute; top:-20px; right:-20px; border-radius:10px;" alt="gif"/>
+            </div>
+          </td>
+
+  </tr>
+ </table>
     </td>
   </tr>
 </table>
