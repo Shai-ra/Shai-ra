@@ -12,7 +12,7 @@
     <div style="background:#fff; padding:20px; border-radius:12px; width:320px; box-shadow:0 8px 22px rgba(0,0,0,0.14); position:relative;">
 
   <div  style="font-weight:700; font-size:22px; text-align:center; margin-bottom:6px;">AI student</div>
-  <p style="margin:0; text-align:center;">Crafting projects, breaking stuff, fixing it again.</p>
+  <p style="margin:0; text-align:center;">Crafting projects, breaking stuff, <br>fixing it again.</p>
 <img src="https://raw.githubusercontent.com/Shai-ra/Shai-ra/main/BPmy.gif" width="160" style="position:absolute; top:-20px; right:-20px; border-radius:10px;" alt="gif"/>
             </div>
           </td>
